@@ -1,4 +1,4 @@
-# Learning Journal Week 9
+# Learning Journal Week 1
 ## Week 1
 ## Learning Activities
 
