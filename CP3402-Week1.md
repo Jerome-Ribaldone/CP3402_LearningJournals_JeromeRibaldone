@@ -5,9 +5,9 @@ This week, I set up a GitHub Pages website. The goal of this task was to refresh
 I used these tools to create unique images for the website, given the unique idea of a toast that takes selfies and toasts that image onto the toast. The online tool that I found helpful for this site development was "This Person Does Not Exist," a site that generates random images of people who don't exist. This was used to generate headshot images for the staff of the company.
 After I finished the practical, I decided to revise some coding languages. This week, I chose to focus on PHP. My reasoning for starting with PHP, despite it not being needed until later in the subject, was due to PHP being one of the lacking coding languages in my previous attempts at this subject. I used codecademy.com to learn the basics of PHP and have completed the first module of this course.
 ## Resources/Links
-- [Github Pages](https://pages.github.com/)
-- [Pixlir](Pixlir.com)
-- [Craiyon](Craiyon.com)
+- [GitHub Pages](https://pages.github.com/)
+- [Pixlir](https://Pixlir.com)
+- [Craiyon](https://Craiyon.com)
 - [This Person Does Not Exist](https://this-person-does-not-exist.com/en)
 - [CodeCademy PHP](https://www.codecademy.com/catalog/language/php)
 ## Estimated Hours
