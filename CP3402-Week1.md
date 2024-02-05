@@ -6,7 +6,7 @@ I used these tools to create unique images for the website, given the unique ide
 After I finished the practical, I decided to revise some coding languages. This week, I chose to focus on PHP. My reasoning for starting with PHP, despite it not being needed until later in the subject, was due to PHP being one of the lacking coding languages in my previous attempts at this subject. I used codecademy.com to learn the basics of PHP and have completed the first module of this course.
 ## Resources/Links
 - [GitHub Pages](https://pages.github.com/)
-- [Pixlir](https://Pixlir.com)
+- [Pixlr](https://Pixlr.com/image-generator/)
 - [Craiyon](https://Craiyon.com)
 - [This Person Does Not Exist](https://this-person-does-not-exist.com/en)
 - [CodeCademy PHP](https://www.codecademy.com/catalog/language/php)
