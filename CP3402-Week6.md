@@ -10,13 +10,9 @@ Group Assessment Content and Setup
 ## Estimated Hours
 This week I have only spent around 3-4 hour going over the group assessment content and setup
 ## Content Insights
-This week I had my first group meeting for the assessment, this week we did some of the setup. We set up the GitHub Repository, 
-Trello Board, Slack and Discord. In discord, we made sure the discord was set up with the appropriate channels to make sure 
-content will be organised throughout the project. The Trello board we wer given a template, so we filled out the group agreement and contacts card, 
-the issue I came across when working with trello was when multiple people are trying to edit the same card work can get overwritten, because of this
-I rewrote some sections multiple times. Slack only GitHub was integrated into the channel, this was an easy process which requires a single command. 
-In the GitHub Repository so far on the documentation mark is set up. During the meeting we negotiated what the weekly meeting times will be we decide on
-7pm Monday, Wednesday Thursday.
+This week, I had my first group meeting for the assessment. We focused on setting up various tools. We established a GitHub Repository, a Trello Board, Slack, and Discord. In Discord, we ensured that the channels were appropriately organized to facilitate content management throughout the project. For the Trello board, we were provided with a template, and we filled out the group agreement and contacts card. One issue I encountered while working with Trello was that multiple people trying to edit the same card could result in overwritten work. Consequently, I had to rewrite some sections multiple times.
+
+Only GitHub was integrated into the Slack channel, which was a straightforward process requiring a single command. As for the GitHub Repository, we've only set up the documentation mark thus far. During the meeting, we negotiated the weekly meeting times and decided on 7 PM on Monday, Wednesday, and Thursday.
 
 ## Career/Employability/Learning Insights
-Collaborating with people for group assessments is great experience for the future in the workplace, IT is an industry that heavily relies on collaboration for massive projects.     
+Collaborating with others for group assessments provides valuable experience for the future workplace. The IT industry, in particular, heavily relies on collaboration for large-scale projects.
