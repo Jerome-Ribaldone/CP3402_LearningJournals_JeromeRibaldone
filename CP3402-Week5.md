@@ -7,6 +7,6 @@ Learnt How to create a child theme in WordPress
 ## Estimated Hours
 2 hours
 ## Content Insights
-Learning how child theme work was an interesting experience, being able to make a custom them for wordpress was different
+Learning how child theme work was an interesting experience, being able to make a custom them for WordPress was different.
 ## Career/Employability/Learning Insights
-for future employablity i dont see much benefit unless i go into web design
+For future employability i dont see much benefit unless i go into web design.
